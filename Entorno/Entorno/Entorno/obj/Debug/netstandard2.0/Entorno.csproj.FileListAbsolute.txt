@@ -1,0 +1,14 @@
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\bin\Debug\netstandard2.0\Entorno.deps.json
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\bin\Debug\netstandard2.0\Entorno.dll
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\bin\Debug\netstandard2.0\ref\Entorno.dll
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\bin\Debug\netstandard2.0\Entorno.pdb
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\Entorno.csprojAssemblyReference.cache
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\Entorno.AssemblyInfoInputs.cache
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\Entorno.AssemblyInfo.cs
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\Entorno.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\Entorno.dll
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\ref\Entorno.dll
+C:\Users\RICARDO\source\repos\Entorno\Entorno\Entorno\obj\Debug\netstandard2.0\Entorno.pdb
